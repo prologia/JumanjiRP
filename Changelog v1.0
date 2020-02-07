@@ -7,15 +7,15 @@ Strona: http://jumanji.pro
 
 📌 FRAKCJE
 ◾️ Policja (LSPD):
-   ↳
+   ↳ dodano 12 rang policyjnych + 2 rangi SWAT
 ◾️ Pogotowie (EMS):
-   ↳
+   ↳ dodano możliwość schodzenia ze służby
 ◾️ Urząd Miasta (Urzędnik & Instruktor):
-   ↳
+   ↳ dodano wstępnie 3 rangi, aby usprawnić pracę Urzędu
 ◾️ Warsztat:
-   ↳
+   ↳ usunięto możliwość wykonywania modyfikacji karoserii oraz tuningu
 ◾️ TunerClub:
-   ↳
+   ↳ dodano możliwość wykonywania tuningu pojazdów
 
 
 
@@ -54,8 +54,12 @@ Strona: http://jumanji.pro
 📌 MAPA
 ◾️ Urząd Miasta v.1.0
 ◾️ Komisariat LSPD v.1.0
-◾️ Warsztat LSC v.1.0
-
+◾️ Szpital EMS v.1.0
+◾️ Warsztat LSC/Benny v.1.0
+◾️ Warsztat TunerClub v.1.0
+◾️ Galeria Handlowa v.1.0
+◾️ Salon Samochodowy v.1.0
+◾️ Parking Główny v.1.0
 
 
 📌 DODATKOWE
