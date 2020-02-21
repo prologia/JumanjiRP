@@ -2,6 +2,7 @@
 Jumanji RP v1.0
 Sloty: 64
 Strona: http://jumanji.pro
+Dev: https://prologia.pl
 ----------------------
 
 
@@ -20,12 +21,13 @@ Strona: http://jumanji.pro
 
 
 📌 PRACE INNE
-~ 
-   ↳
-~ 
-   ↳
-~ 
-   ↳
+~ Drwal
+   ↳ zbieranie i przerabianie drewna,
+   ↳ dodatkowy drop: 
+~ Górnik
+   ↳ dodatkowy drop:
+~ Rybak
+   ↳ dodatkowy drop:
 ~ 
    ↳
 ~ 
@@ -36,30 +38,45 @@ Strona: http://jumanji.pro
 
 
 📌 SYSTEMY
-◽️ System własnych Biznesów:
+◽️ System Egzaminów
+   ↳ Prawo Jazdy oraz Licencję Pilota można zdobyć w Urzędzie Miasta,
+   ↳ Bez zdanego Prawa Jazdy jazda pojazdami aktywuje wstrząsy ekranu,
+   ↳ Latanie bez zdanej Licencji Pilota kończy się wyrzuceniem z samolotu/helikoptera,
+   ↳ Egzaminatorami są gracze należący do frakcji Urząd Miasta,
+   ↳ Prawo Jazdy składa się z dwóch egzaminów: teoretycznego i praktycznego,
+   ↳ Egzamin można powtórzyć, po ponownym jego opłaceniu,
+
+◽️ System własnych Biznesów
+   ↳ Każdy gracz może kupić własny biznes/sklep, w którym będzie mógł sprzedawać przedmioty,
+   ↳ Właściciel biznesu/sklepu może sprowadzać przedmioty z hurtowni lub wystawić własne itemy,
+   ↳ Zarobione pieniądze należą do Właściciela biznesu/sklepu,
+   ↳ Zarobione pieniądze są schowane do sejfu w biznesie/sklepie i inni gracze nie mogą ich ukraść.
+
+◽️ System Firm/Gangów
    ↳
    ↳
-◽️ System Firm/Gangów:
-   ↳
-   ↳
-◽️ System Napadów:
-   ↳
-   ↳
-◽️ System Narkotyków:
-   ↳
-   ↳
- 
+
+◽️ System Napadów
+   ↳ dostępne napady: Główny Bank, Ammo-Nation, Jubiler, Jacht, Mniejsze Banki, Domy oraz Sklepy,
+   ↳ drop z napadów: brudna gotówka, biżuteria oraz materiały do craftowania,
+
+◽️ System Narkotyków
+   ↳ podstawowe narkotyki (dostępne): marihuana, hasz i opium,
+   ↳ ciężkie narkotyki (zablokowane): kokaina, metaamfetamina,
+   ↳ ciężkie narkotyki może tylko sprowadzać Mafia lub Kartel po wykupieniu dostępu,
+   ↳ narkotyki podstawowe nie wymagają policji do zbierania/przerabiania,
+   ↳ narkotykami można handlować z NPC, sprzedawać Dealerom lub je zażywać.
+
  
  
 📌 MAPA
 ◾️ Urząd Miasta v.1.0
 ◾️ Komisariat LSPD v.1.0
 ◾️ Szpital EMS v.1.0
-◾️ Warsztat LSC/Benny v.1.0
+◾️ Warsztat LSC v.1.0
 ◾️ Warsztat TunerClub v.1.0
 ◾️ Galeria Handlowa v.1.0
 ◾️ Salon Samochodowy v.1.0
-◾️ Parking Główny v.1.0
 
 
 📌 DODATKOWE
