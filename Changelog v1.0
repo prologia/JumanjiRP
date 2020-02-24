@@ -6,38 +6,59 @@ Dev: https://prologia.pl
 ----------------------
 
 
+
+
 📌 FRAKCJE
+
 ◾️ Policja (LSPD):
-   ↳ dodano 12 rang policyjnych + 2 rangi SWAT
+   ↳ 12 rang policyjnych + 2 rangi SWAT,
+   ↳ radar prędkości (klawisz F11),
+   ↳ powiadomienia o przestępstwach.
+
 ◾️ Pogotowie (EMS):
-   ↳ dodano możliwość schodzenia ze służby
-◾️ Urząd Miasta (Urzędnik & Instruktor):
-   ↳ dodano wstępnie 3 rangi, aby usprawnić pracę Urzędu
+   ↳ bankomat w budynku szpitala,
+   ↳ przedmioty do respienia (torba medyczna, pojemnik na organy).
+
+◾️ Urząd Miasta (Urząd):
+   ↳ połączono z urzędem frakcje pomocnicze, tj. Psycholog, Adwokat, Instruktor (prawo jazdy & kurs pilotażu),
+   ↳ gabinet Psychologa znajduje się na samej górze Urzędu Miasta (drzwi zamykane),
+   ↳ Ośrodek Szkoleniowy (prawo jazdy), znajduje się w lewej części budynku (parter).
+
 ◾️ Warsztat:
-   ↳ usunięto możliwość wykonywania modyfikacji karoserii oraz tuningu
+   ↳ usunięto możliwość wykonywania modyfikacji karoserii oraz tuningu,
+   ↳ przeniesiona siedziba.
+
 ◾️ TunerClub:
-   ↳ dodano możliwość wykonywania tuningu pojazdów
+   ↳ dodano możliwość wykonywania tuningu pojazdów,
+   ↳ dostęp do nitro,
+   ↳ siedziba ukryta na mapie.
+
 
 
 
 📌 PRACE INNE
+
 ~ Drwal
    ↳ zbieranie i przerabianie drewna,
-   ↳ dodatkowy drop: 
+   ↳ dodatkowy drop: części metalowe (item wymagany do craftowania, można nim handlować z graczami)
 ~ Górnik
-   ↳ dodatkowy drop:
+   ↳ wydobywanie kamieni i uzyskiwania surowców,
+   ↳ dodatkowy drop: części metalowe (item wymagany do craftowania, można nim handlować z graczami)
 ~ Rybak
-   ↳ dodatkowy drop:
-~ 
-   ↳
-~ 
-   ↳
-~ 
-   ↳
+   ↳ łowienie i sprzedaż ryb,
+   ↳ dodatkowy drop: części metalowe (item wymagany do craftowania, można nim handlować z graczami)
+~ Taxi
+   ↳ usługi transportowe dla graczy,
+   ↳ możliwość pracy z NPC (klawisz F6)
+~ Kierowca TIRa
+   ↳ usługi transportowe (transport towarów),
+   ↳ wymagane prawo jazdy kat. C
+
 
 
 
 📌 SYSTEMY
+
 ◽️ System Egzaminów
    ↳ Prawo Jazdy oraz Licencję Pilota można zdobyć w Urzędzie Miasta,
    ↳ Bez zdanego Prawa Jazdy jazda pojazdami aktywuje wstrząsy ekranu,
