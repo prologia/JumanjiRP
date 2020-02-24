@@ -2,7 +2,9 @@
 Jumanji RP v1.0
 Sloty: 64
 Strona: http://jumanji.pro
-Dev: https://prologia.pl
+Dev_: https://prologia.pl
+----------------------
+Data: 23.02.2020r.
 ----------------------
 
 
@@ -78,6 +80,14 @@ Dev: https://prologia.pl
    ↳ Firmy mogą ubiegać się o dofinansowanie z Urzędu Miasta na rozwój biznesu,
    ↳ Gangi mogą przejmować narkotyki dostępne na serwerze.
 
+◽️ System Mieszkań/Domów
+   ↳ można posiadać kilka mieszkań,
+   ↳ mieszkaniami można handlować z innymi graczami,
+   ↳ po zakupie mieszkania przez gracza, mieszkanie znika z rynki nieruchomości i nikt już nie może go kupić (chyba, że od właściciela),
+   ↳ w mieszkaniu jest prywatny schowek na itemy oraz broń,
+   ↳ można ulepszyć swoje mieszkanie o dodatkowy prywatny garaż (wymagana dopłata $$),
+   ↳ aktualnie jest około 100 mieszkań do kupienia.
+
 ◽️ System Napadów
    ↳ dostępne napady: Główny Bank, Ammo-Nation, Jubiler, Jacht, Mniejsze Banki, Domy oraz Sklepy,
    ↳ drop z napadów: brudna gotówka, biżuteria oraz materiały do craftowania,
@@ -137,11 +147,22 @@ Dev: https://prologia.pl
    ↳ aby rozpocząć utworzony wyścig należy wpisać "/wyscig start KWOTA 15",
    ↳ w celu zabezpieczenia przed oszustami, skrypt wyścigu nie zabiera sam pieniędzy! Po zakończeniu wyścigu należy odegrać przekazanie pieniędzy.
 
-◽️ ?????:
-   ↳
-◽️ ?????:
-   ↳
-◽️ ?????:
-   ↳
+◽️ Złomowisko:
+   ↳ pozwala na złomowanie pojazdów na części,
+   ↳ punkt złomowania jest na mapie ukryty,
+   ↳ po rozebraniu pojazdu można otrzymać itemy do craftowania,
+   ↳ po rozebraniu pojazdu wypadają części, które można sprzedać u Złomiarza (NPC nie jest oznaczony na mapie).
 
-Domy system..
+◽️ Kradzież Pojazdów:
+   ↳ NPC daje zlecenie na kradzież pojazdu w wyznaczonym miejscu, a gracz musi go zdobyć i dostarczyć do dziupli,
+   ↳ czym więcej policji online tym większa nagroda,
+   ↳ punkt jest ukryty na mapie.
+
+◽️ Fryzjer & Sklep z ciuchami & Tatuaż:
+   ↳ wszystkie dodatkowe sklepy są na serwerze, ale ich ikonki zostały ukryte,
+   ↳ jeżeli ktoś ma problem ze znalezieniem dodatkowych sklepów, powinien się udać do Centrum Handlowego.
+
+◽️ Blokady:
+   ↳ jest aktywna blokada na latanie (aby móc pilotować, należy najpierw zdać Kurs Pilotażu, który jest w formie odegrania RP),
+   ↳ zablokowano niektóre bronie i pojazdy,
+   ↳ po kliknięciu klawisza Insert, gracz dostaje kicka.
