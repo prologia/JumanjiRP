@@ -98,7 +98,8 @@ Data: 23.02.2020r.
    ↳ ciężkie narkotyki (zablokowane): kokaina, metaamfetamina,
    ↳ ciężkie narkotyki może tylko sprowadzać Mafia lub Kartel po wykupieniu dostępu,
    ↳ narkotyki podstawowe nie wymagają policji do zbierania/przerabiania,
-   ↳ narkotykami można handlować z NPC, sprzedawać Dealerom lub je zażywać.
+   ↳ narkotykami można handlować z NPC, sprzedawać Dealerom lub je zażywać,
+   ↳ nie jest wymagana policja do zbierania, ani do przerabiania narkotyków.
 
 ◽️ System Crafingu
    ↳ miejsce do craftowania jest ukryte na mapie,
@@ -161,6 +162,11 @@ Data: 23.02.2020r.
 ◽️ Fryzjer & Sklep z ciuchami & Tatuaż:
    ↳ wszystkie dodatkowe sklepy są na serwerze, ale ich ikonki zostały ukryte,
    ↳ jeżeli ktoś ma problem ze znalezieniem dodatkowych sklepów, powinien się udać do Centrum Handlowego.
+
+◽️ Pranie Pieniędzy:
+   ↳ aktualnie brudne pieniądze można prać u liderów frakcji: LSC, TunerClub oraz Mafii,
+   ↳ lider frakcji decyduje o prowizji za wypranie pieniędzy,
+   ↳ nie ma publicznej pralni brudnych pieniędzy.
 
 ◽️ Blokady:
    ↳ jest aktywna blokada na latanie (aby móc pilotować, należy najpierw zdać Kurs Pilotażu, który jest w formie odegrania RP),
