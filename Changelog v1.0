@@ -74,8 +74,9 @@ Dev: https://prologia.pl
    ↳ Zarobione pieniądze są schowane do sejfu w biznesie/sklepie i inni gracze nie mogą ich ukraść.
 
 ◽️ System Firm/Gangów
-   ↳
-   ↳
+   ↳ Firme lub Gang można ulepszyć o kolejne funkcje, tj. prywatny garaż, schowek na broń, helikopter, przeróbkę narko, pralnie brudnych pieniędzy, stół do craftowania, itp.
+   ↳ Firmy mogą ubiegać się o dofinansowanie z Urzędu Miasta na rozwój biznesu,
+   ↳ Gangi mogą przejmować narkotyki dostępne na serwerze.
 
 ◽️ System Napadów
    ↳ dostępne napady: Główny Bank, Ammo-Nation, Jubiler, Jacht, Mniejsze Banki, Domy oraz Sklepy,
@@ -89,9 +90,17 @@ Dev: https://prologia.pl
    ↳ narkotyki podstawowe nie wymagają policji do zbierania/przerabiania,
    ↳ narkotykami można handlować z NPC, sprzedawać Dealerom lub je zażywać.
 
+◽️ System Crafingu
+   ↳ miejsce do craftowania jest ukryte na mapie,
+   ↳ aby móc craftowac, wymagane są przedmioty specjalne, tj. Części Metalowe, Elementy do Broni, Szkielet Broni, Amunicja,
+   ↳ przedmioty do craftowania wypadają z prac dostępnych w Urzędzie Miasta, podczas złomowania pojazdów oraz w napadach na Ammo-Nation,
+   ↳ można handlować z innymi graczami itemkami do craftingu.
+
  
  
+
 📌 MAPA
+
 ◾️ Urząd Miasta v.1.0
 ◾️ Komisariat LSPD v.1.0
 ◾️ Szpital EMS v.1.0
@@ -101,6 +110,38 @@ Dev: https://prologia.pl
 ◾️ Salon Samochodowy v.1.0
 
 
+
+
 📌 DODATKOWE
+
+◽️ Supermarkety:
+   ↳ dostępne są tylko 2 supermarkety (ikonka zielony koszyczek na mapie),
+   ↳ w supermarkecie można płacić gotówką lub kartą płatniczą,
+   ↳ aktualnie supermarketów nie można okradać,
+   ↳ przedmioty do kupienia: jedzenie, picie, dodatkowe posiłki, Telefon, Karta SIM, Zdrapka, Worek, Sucha Karma.
+
+◽️ Sklepy:
+   ↳ wszystkie sklepy są do kupienia jako biznes gracza,
+   ↳ zakupiony sklep ma na mapie ikonkę niebieskiego koszyczka,
+   ↳ aktualnie sklepów nie można okradać,
+   ↳ ceny przedmiotów w sklepach ustala gracz (właściciel sklepu).
+
+◽️ Pupile:
+   ↳ można posiadać własne zwierzątko,
+   ↳ menu zwierzaków dostępne pod klawiszem F9,
+   ↳ zwierzaka trzeba karmić Suchą Karmą (dostępna w supermarkecie).
+
+◽️ Wyścigi Uliczne:
+   ↳ możliwość tworzenia wyścigów ulicznych,
+   ↳ aby utworzyć trasę należy wpisać komendę "/wyscig nowy" a następnie wskazać trasę na mapie,
+   ↳ aby rozpocząć utworzony wyścig należy wpisać "/wyscig start KWOTA 15",
+   ↳ w celu zabezpieczenia przed oszustami, skrypt wyścigu nie zabiera sam pieniędzy! Po zakończeniu wyścigu należy odegrać przekazanie pieniędzy.
+
 ◽️ ?????:
    ↳
+◽️ ?????:
+   ↳
+◽️ ?????:
+   ↳
+
+Domy system..
